@@ -1,0 +1,10 @@
+/* src/components/TokenGeneratorApp.css */
+.app-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fefefe;
+    border-radius: 12px;
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.1);
+  }
+  

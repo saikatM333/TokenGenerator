@@ -1,0 +1,28 @@
+/* src/components/TokenForm.css */
+.token-form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .token-form-container h5 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .token-form-container .MuiTextField-root {
+    margin-bottom: 15px;
+  }
+  
+  .token-form-container .MuiButton-root {
+    margin-top: 10px;
+    transition: transform 0.2s, box-shadow 0.3s;
+  }
+  
+  .token-form-container .MuiButton-root:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  
